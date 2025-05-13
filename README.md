@@ -7,3 +7,5 @@ Esta exposicion la realice con el motivo de presentar una charla en la empresa I
 esta charla es realizada con fines academicos y didacticos de investigacion. 
 
 Marzo 2024
+
+![](https://github.com/eusebio-orozco/IBM-presentacion/blob/860e215d6bf0883223136bea13489df18ad77b63/portada.JPG)
