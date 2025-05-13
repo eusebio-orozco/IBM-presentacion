@@ -10,4 +10,6 @@ Marzo 2024
 
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/860e215d6bf0883223136bea13489df18ad77b63/portada.JPG)
 
+![](https://github.com/eusebio-orozco/IBM-presentacion/blob/e716cc0af050112a681bdfcc56dedb03e808fc32/ENSAMBLADOR.gif)
+
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/355a1f9471037ce44590b9ebe6c76bf8573b74e6/OpCode.gif)
